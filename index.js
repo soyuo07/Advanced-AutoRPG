@@ -457,3 +457,4 @@ async function enhanceItem() {
         alert("강화 중 오류가 발생했습니다.");
     }
 }
+alert("Welcome To Advanced-AutoRPG v1");
